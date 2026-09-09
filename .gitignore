@@ -48,3 +48,18 @@ Thumbs.db
 # Local project data
 raw_data/
 intermediate_data/
+
+# ------------------------------------------------------------
+# CURATED FIGURES — ALLOW SELECTED PNGs FOR GITHUB
+# ------------------------------------------------------------
+!results/figures/
+!results/figures/QC/
+!results/figures/QC/**/*.png
+!results/figures/LCP/
+!results/figures/LCP/**/*.png
+!results/figures/niches/
+!results/figures/niches/**/*.png
+!results/figures/enrichment/
+!results/figures/enrichment/**/*.png
+!results/figures/LR/
+!results/figures/LR/**/*.png
