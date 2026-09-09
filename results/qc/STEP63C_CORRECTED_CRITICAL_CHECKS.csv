@@ -1,0 +1,24 @@
+"check","result"
+"STEP57G PASS",TRUE
+"STEP57H PASS",TRUE
+"STEP57L recovered",TRUE
+"STEP58E = 73 comparisons",TRUE
+"STEP59 = 157713 rows",TRUE
+"STEP60B = 70587 rows",TRUE
+"STEP60E = 56512 rows",TRUE
+"STEP60E = 3597 genes",TRUE
+"STEP61B = 1228 rows",TRUE
+"STEP61B = 68 terms",TRUE
+"STEP61B = 29 groups",TRUE
+"STEP61D recovered",TRUE
+"STEP61E recovered",TRUE
+"STEP61F recovered",TRUE
+"STEP61G-A recovered",TRUE
+"STEP61G-B recovered",TRUE
+"STEP61G-C recovered",TRUE
+"STEP62A1 recovered",TRUE
+"STEP62A2 recovered",TRUE
+"STEP62B recovered",TRUE
+"Direct LR-NCDEG overlap = 0",TRUE
+"Exact niche-context overlap = 0",TRUE
+"Branch integration = 10052 rows",TRUE

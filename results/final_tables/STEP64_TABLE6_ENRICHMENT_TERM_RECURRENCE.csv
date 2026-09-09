@@ -1,0 +1,69 @@
+"term","enrichment_records"
+"HALLMARK_MYC_TARGETS_V1",58
+"HALLMARK_OXIDATIVE_PHOSPHORYLATION",54
+"HALLMARK_MTORC1_SIGNALING",53
+"MP13 Translation initiation",49
+"MP10 Proteasomal degradation",45
+"Proteasomal Degradation",43
+"HALLMARK_E2F_TARGETS",40
+"MP27 MYC",40
+"MP30 Respiration 1",39
+"HALLMARK_ADIPOGENESIS",37
+"MP31 Respiration 2",37
+"MP3 Cell Cylce HMG-rich",34
+"MP32 Respiration (HNSCC)",34
+"HALLMARK_DNA_REPAIR",32
+"MP1 Cell Cycle - G2/M",32
+"MP34 Secreted II",32
+"Cycle",30
+"HALLMARK_G2M_CHECKPOINT",30
+"Oxphos",30
+"HALLMARK_MYC_TARGETS_V2",26
+"pEMT",23
+"HALLMARK_PROTEIN_SECRETION",22
+"Cell_cycle_and_apoptosis",21
+"Epithelial-mesenchymal_transition",21
+"MP12 Protein maturation",21
+"HALLMARK_CHOLESTEROL_HOMEOSTASIS",18
+"MP14 Unfolded protein response 2",16
+"MP7 Hypoxia",16
+"Cancer_driver_genes",15
+"MP19 EMT-V",15
+"MP4 Chromatin",15
+"HALLMARK_UNFOLDED_PROTEIN_RESPONSE",14
+"MP17 EMT-III",14
+"HALLMARK_FATTY_ACID_METABOLISM",13
+"HALLMARK_GLYCOLYSIS",13
+"Hypoxia",13
+"MP2 Cell Cycle - G1/S",12
+"MP26 Epithelial Senescence (HNSCC)",12
+"MP9 Stress 2",12
+"MP8 Stress (in vitro)",11
+"DNA_repair",10
+"MP25 Epithelial Senescence",10
+"Epithelial Senescence",9
+"HALLMARK_HYPOXIA",9
+"Metastasis",9
+"Protein Maturation",9
+"Chromatin_modification",8
+"MP11 Unfolded protein response 1",7
+"MP64 Adherens",6
+"HALLMARK_ANDROGEN_RESPONSE",5
+"MP20 EMT-VI",5
+"MP66 Unassigned 1",5
+"MP67 Unassigned 2",5
+"Squamous",5
+"Cell Cycle - G2/M",4
+"HALLMARK_ESTROGEN_RESPONSE_LATE",4
+"HALLMARK_PEROXISOME",4
+"MP29 P53",4
+"Glandular",3
+"HALLMARK_UV_RESPONSE_UP",3
+"MP65 Cholesterol Homeostasis",3
+"Cell Cycle - G1/S",2
+"HALLMARK_MITOTIC_SPINDLE",2
+"Basal",1
+"HALLMARK_ESTROGEN_RESPONSE_EARLY",1
+"HALLMARK_PI3K_AKT_MTOR_SIGNALING",1
+"HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",1
+"TGFB_pathway",1

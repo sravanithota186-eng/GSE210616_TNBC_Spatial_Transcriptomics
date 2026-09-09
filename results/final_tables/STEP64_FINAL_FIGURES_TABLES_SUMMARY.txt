@@ -1,0 +1,40 @@
+============================================================
+STEP64 FINAL FIGURES AND TABLES SUMMARY
+============================================================
+
+Downstream packaging only.
+No upstream biological analysis was rerun.
+
+KEY RESULTS
+
+Visium samples: 43
+LR meta-analysis rows: 10567
+LR candidates: 22
+LR pathway records: 22
+C-SIDE comparisons: 73
+NCDEG extraction rows: 157713
+NCDEG meta-analysis rows: 70587
+Final NCDEG rows: 56512
+Final NCDEG unique genes: 3597
+Enrichment rows: 1228
+Unique enrichment terms: 68
+Enrichment branch-niche groups: 29
+Direct LR-NCDEG gene overlap: 0
+Exact LR-NCDEG niche-context overlap: 0
+Branch-level LR-NCDEG integration rows: 10052
+
+MLCP C-SIDE comparisons: 14
+SLCP C-SIDE comparisons: 59
+
+STEP63C critical audit: 23/23 PASS
+STEP63C full audit: 51/51 PASS
+
+IMPORTANT:
+Zero LR-NCDEG direct overlap is retained as an observed result.
+Zero exact LR-NCDEG niche-context overlap is retained as an observed result.
+No artificial LR-NCDEG matching was performed.
+No artificial niche matching was performed.
+STEP62B is branch-level evidence characterization, not a statistical association test.
+
+STEP64 STATUS: PASS
+============================================================

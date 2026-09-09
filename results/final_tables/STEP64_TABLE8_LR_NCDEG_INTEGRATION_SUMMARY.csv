@@ -1,0 +1,5 @@
+"metric","value","interpretation"
+"Direct LR-NCDEG gene overlap",0,"No direct LR-gene overlap with tumor NCDEGs"
+"Exact niche-context overlap",0,"No exact LR/NCDEG branch-niche context overlap"
+"Branch-level integration rows",10052,"Branch-level evidence characterization"
+"Common branches",2,"MLCP and SLCP"

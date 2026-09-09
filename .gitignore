@@ -1,0 +1,50 @@
+﻿# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large analysis objects
+*.rds
+*.RDS
+*.rda
+*.RData
+
+# Raw sequencing / spatial data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.h5
+*.h5ad
+*.mtx
+*.tar
+*.tar.gz
+
+# Visium images and large image files
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Operating-system files
+Thumbs.db
+.DS_Store
+
+# Large archives
+*.zip
+*.7z
+
+# Local project data
+raw_data/
+intermediate_data/

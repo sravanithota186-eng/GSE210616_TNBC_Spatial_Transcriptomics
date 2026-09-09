@@ -1,0 +1,28 @@
+﻿# Dataset metadata
+
+GEO accession: GSE210616
+Title: Spatial transcriptomics of triple negative breast cancer
+Species: Homo sapiens
+Technology: 10x Genomics Visium
+Patients: 22
+Spatial sections: 43
+Study type: TNBC spatial transcriptomics
+
+Reference workflow:
+Li et al., SpatialOmics_PanCancer
+
+Analysis scope:
+TNBC-focused adaptation of the published spatial transcriptomics workflow.
+
+Software environment:
+R 4.5.1
+Seurat 5.5.1
+SeuratObject 5.4.0
+spacexr 2.2.1
+infercnv 1.24.0
+CellChat 2.2.0.9001
+clusterProfiler 4.2.2 methodology
+
+Final reproducibility audit:
+Critical checks: 23/23 PASS
+Full audit checks: 51/51 PASS

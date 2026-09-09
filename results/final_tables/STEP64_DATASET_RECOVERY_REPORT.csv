@@ -1,0 +1,9 @@
+"dataset","recovered","rows"
+"LR meta-analysis",TRUE,10567
+"LR candidates",TRUE,22
+"LR pathways",TRUE,22
+"C-SIDE comparisons",TRUE,73
+"NCDEG meta-analysis",TRUE,70587
+"Final NCDEGs",TRUE,56512
+"Enrichment",TRUE,1228
+"Branch integration",TRUE,10052
